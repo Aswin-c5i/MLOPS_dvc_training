@@ -1,5 +1,5 @@
 outs:
-- md5: 5751441b4175411544109b9d60ab43af
-  size: 93402
+- md5: 8f01d7ba0cd4fc210179c6a84752006e
+  size: 56234
   hash: md5
   path: dvc_demo.xlsx
